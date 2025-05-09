@@ -23,7 +23,7 @@
 }
 
 .btn:hover a {
-    color: var(--primary) !important;
+    color: var(--dark) !important;
 }
 
 .btn-light {
